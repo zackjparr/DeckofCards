@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0wnNKiDBKU8unkLRiuJ4gLiS3qW4fejG94Cydgc6jqcsVs+IUgUJuRvend+P1uJ4+L0ZrD06TNltQyH4UIt1Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZParr\\source\\repos\\DeckofCards\\DeckofCards\\DeckofCards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZParr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

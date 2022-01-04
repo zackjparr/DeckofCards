@@ -1,0 +1,9 @@
+﻿@model Draw
+
+<h3>Here is your deck:</h3>
+<p>@Model.deck_id</p>
+<p>@Model.remaining cards remaining.</p>
+
+<form asp-action="Draw">
+    <input type="submit"/>
+</form>
